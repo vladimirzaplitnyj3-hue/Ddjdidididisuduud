@@ -38,7 +38,7 @@ logger = logging.getLogger(__name__)
 # Конфигурация
 API_ID = '27231812'
 API_HASH = '59d6d299a99f9bb97fcbf5645d9d91e9'
-BOT_TOKEN = '8502910736:AAFQKj8DJMhbUUASonk6bOAbgFefvhFh878'
+BOT_TOKEN = '8251326245:AAFwWyDOCmcRrGzPNM2zQtusJq0wInKnorI'
 ADMINS = [262511724]  # ID администраторов
 LOG_CHANNEL = 'https://t.me/+cnym32Oi-mJiMGNi'  # Ссылка на канал логов
 
@@ -5600,3 +5600,4 @@ if __name__ == "asgard":
 
     logger.info("Бот запущен и готов к работе.")
     bot.run_until_disconnected()
+
